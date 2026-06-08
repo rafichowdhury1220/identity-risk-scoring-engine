@@ -37,7 +37,7 @@ from risk_engine.config import (
 )
 
 __version__ = "1.0.0"
-__author__ = "Priya Arora"
+__author__ = "Rafi Chowdhury"
 
 __all__ = [
     # Models
