@@ -8,8 +8,8 @@ with open("README.md", "r", encoding="utf-8") as f:
 setup(
     name="identity-risk-scoring-engine",
     version="1.0.0",
-    author="Priya Arora",
-    author_email="priya@example.com",
+    author="Rafi Chowdhury",
+    author_email="rafi1220@gmail.com",
     description="Enterprise-grade identity risk assessment and access control system",
     long_description=long_description,
     long_description_content_type="text/markdown",
