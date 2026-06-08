@@ -345,8 +345,7 @@ MIT License - See LICENSE file
 
 ## Author
 
-**Priya Arora** | Solution Architect & IAM Engineer  
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com) | [Email](mailto:priya@example.com)
+**Rafi Chowdhury** | Solution Architect & IAM Engineer  
 
 ---
 
