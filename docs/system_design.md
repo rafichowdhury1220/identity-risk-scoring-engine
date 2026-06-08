@@ -1,6 +1,6 @@
 # System Design Document - Identity Risk Scoring Engine
 
-**Author**: Priya Arora | **Date**: January 2024 | **Version**: 1.0
+**Author**: Rafi | **Date**: January 2024 | **Version**: 1.0
 
 ## Executive Summary
 
